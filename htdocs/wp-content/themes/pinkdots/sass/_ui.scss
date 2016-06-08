@@ -1,0 +1,28 @@
+$white:#FFF;
+$pink:#EF5AA0;
+$pinklt:#fcabd0;
+$pinksuperlt:#ffdbeb;
+$pinkdark:#b53872;
+@font-face {
+    font-family: 'sofia_prolight';
+    src: url('../fonts/SofiaProLight-webfont.eot');
+    src: url('../fonts/SofiaProLight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/SofiaProLight-webfont.woff2') format('woff2'),
+         url('../fonts/SofiaProLight-webfont.woff') format('woff'),
+         url('../fonts/SofiaProLight-webfont.ttf') format('truetype'),
+         url('../fonts/SofiaProLight-webfont.svg#sofia_prolight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'chunkfive';
+    src: url('../fonts/chunkfive-webfont.eot');
+    src: url('../fonts/chunkfive-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/chunkfive-webfont.woff') format('woff'),
+         url('../fonts/chunkfive-webfont.ttf') format('truetype'),
+         url('../fonts/chunkfive-webfont.svg#trashhandregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
