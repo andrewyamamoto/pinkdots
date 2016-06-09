@@ -13,7 +13,7 @@
 }
 
 body{
-	padding-top:70px;
+	margin-top:111px;
 	background:url(../img/img-bg.gif) fixed;
 	background-color:pink;
 	font-family:sofia_prolight, sans-serif;
@@ -95,8 +95,8 @@ section.section-title{
 			top:-276px;
 		}
 		.h1-end{@include opaque-1;}
-		.bot-end{top:-20px;}
-		.top-end{top:-20px;}
+		.bot-end{top:0;}
+		.top-end{top:0;}
 	}
 }
 

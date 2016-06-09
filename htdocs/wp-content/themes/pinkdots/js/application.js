@@ -5,7 +5,7 @@ jQuery(document).ready(function( $ ){
 	$('.hero .jumbotron h1').addClass('h1-end');
 
 	var navOffset;
-  	navOffset = $('.navbar').height() + 56;
+  	navOffset = $('.navbar').outerHeight();
 	$("#bs-example-navbar-collapse-1 ul li a[href^='#']").on('click', function(e) {
 
 		e.preventDefault();

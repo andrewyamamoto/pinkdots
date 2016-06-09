@@ -11,7 +11,7 @@
   font-weight: normal;
   font-style: normal; }
 body {
-  padding-top: 70px;
+  margin-top: 111px;
   background: url(../img/img-bg.gif) fixed;
   background-color: pink;
   font-family: sofia_prolight, sans-serif; }
@@ -92,9 +92,9 @@ section.section-title, footer {
       filter: alpha(opacity=100);
       opacity: 1; }
     .hero .jumbotron .bot-end {
-      top: -20px; }
+      top: 0; }
     .hero .jumbotron .top-end {
-      top: -20px; }
+      top: 0; }
 
 .circle {
   background-color: #FFF;
